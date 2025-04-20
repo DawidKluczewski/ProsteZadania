@@ -1,0 +1,15 @@
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\bin\Debug\net9.0\ObliczanieSredniej.exe
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\bin\Debug\net9.0\ObliczanieSredniej.deps.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\bin\Debug\net9.0\ObliczanieSredniej.runtimeconfig.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\bin\Debug\net9.0\ObliczanieSredniej.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\bin\Debug\net9.0\ObliczanieSredniej.pdb
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.AssemblyInfoInputs.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.AssemblyInfo.cs
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.csproj.CoreCompileInputs.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.sourcelink.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\refint\ObliczanieSredniej.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.pdb
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ObliczanieSredniej.genruntimeconfig.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\ObliczanieSredniej\obj\Debug\net9.0\ref\ObliczanieSredniej.dll
