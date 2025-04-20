@@ -1,0 +1,14 @@
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\bin\Debug\net9.0\Kalkulator.exe
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\bin\Debug\net9.0\Kalkulator.deps.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\bin\Debug\net9.0\Kalkulator.runtimeconfig.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\bin\Debug\net9.0\Kalkulator.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\bin\Debug\net9.0\Kalkulator.pdb
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\Kalkulator.AssemblyInfo.cs
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\Kalkulator.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\refint\Kalkulator.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\Kalkulator.pdb
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\Kalkulator.genruntimeconfig.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Kalkulator\obj\Debug\net9.0\ref\Kalkulator.dll
