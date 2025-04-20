@@ -1,0 +1,15 @@
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\bin\Debug\net9.0\Konwerter.exe
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\bin\Debug\net9.0\Konwerter.deps.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\bin\Debug\net9.0\Konwerter.runtimeconfig.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\bin\Debug\net9.0\Konwerter.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\bin\Debug\net9.0\Konwerter.pdb
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.AssemblyInfoInputs.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.AssemblyInfo.cs
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.csproj.CoreCompileInputs.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.sourcelink.json
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\refint\Konwerter.dll
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.pdb
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\Konwerter.genruntimeconfig.cache
+C:\Users\idawi\Documents\GitHub\ProsteZadania\C#\Konwerter\obj\Debug\net9.0\ref\Konwerter.dll
